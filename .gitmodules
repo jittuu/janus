@@ -1,3 +1,6 @@
 [submodule "sonofobisidian"]
 	path = sonofobisidian
 	url = git://github.com/vim-scripts/Son-of-Obisidian.git
+[submodule "golang"]
+	path = golang
+	url = git://github.com/jnwhiteh/vim-golang.git
