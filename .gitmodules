@@ -1,0 +1,3 @@
+[submodule "sonofobisidian"]
+	path = sonofobisidian
+	url = git://github.com/vim-scripts/Son-of-Obisidian.git
